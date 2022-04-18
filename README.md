@@ -15,3 +15,4 @@ The method of this project is to look at credit risk through various techniques.
 ![Image5!](https://github.com/adarisi7/Credit_Risk_Analysis/blob/e8cc3c537f0c0e98546ae4d7180673b4539a658e/Screen%20Shot%202022-04-17%20at%209.02.07%20PM.png)
 
 ![Image6!](https://github.com/adarisi7/Credit_Risk_Analysis/blob/e8cc3c537f0c0e98546ae4d7180673b4539a658e/Screen%20Shot%202022-04-17%20at%209.02.22%20PM.png)
+
